@@ -1,9 +1,7 @@
 import java.util.ArrayList;
 
-/* NAME:	Taylor Tompkins
- * CLASS:	CIS-2420-NET01 Microprocessor Assembly
- * DATE:	05 March 2023
- * ASSIGN:	EXTRA CREDIT Prime Numbers - Onesies Vs Threesies
+/* DATE:	05 March 2023
+ * ASSIGN:	Prime Numbers - Onesies Vs Threesies
  * DESCRI:	This program determines which prime number finally pushes the size of the onesies list greater than the size 
  * 			of the threesies list for the first time, also mentioning how many primes are in each list when this happens
  * 
